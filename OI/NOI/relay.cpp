@@ -1,3 +1,9 @@
+/* Author : Arman Ferdous
+ * Date   : 21-04-2020
+ * Source : NOI 2020 Qualification Round
+ * Tag    : Multisource-Dijkstra, Greedy
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
